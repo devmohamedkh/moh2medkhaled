@@ -4,11 +4,11 @@ Creative Node.js Developer with solid understanding at building and implementing
 
 ## Here's what I specialize in:
 
-✅ Restful APIs.
-✅ PSD, Sketch, Figma, XD to HTML
-✅ Responsive Design.
+✅ Restful APIs. </br>
+✅ PSD, Sketch, Figma, XD to HTML </br>
+✅ Responsive Design. </br>
 ✅ Web Scrapping
-✅ Email template & signature
+✅ Email template & signature </br>
 
 ## Back end:
 
@@ -16,25 +16,25 @@ Creative Node.js Developer with solid understanding at building and implementing
 
 ## Front end:
 
-✅ javascript.
-✅ React.js, Redux.js.
-✅ Material UI
-✅ bootstrap, SASS, SCSS, TailwindCSS.
-✅ HTML, CSS.
+✅ javascript. </br>
+✅ React.js, Redux.js. </br>
+✅ Material UI. </br>
+✅ bootstrap, SASS, SCSS, TailwindCSS. </br>
+✅ HTML, CSS. </br>
 
 ## Database:
 
-✅ MySQL, SQL server.
-✅ MongoDB.
-✅ PostgreSQ.
-✅ firebase .
+✅ MySQL, SQL server. </br>
+✅ MongoDB. </br>
+✅ PostgreSQ. </br>
+✅ firebase . </br>
 
 ## Unit testing:
 
-✅ mocha, chai, jest, jasmine.
+✅ mocha, chai, jest, jasmine. </br>
 
 ## Other skills:
 
-✅ Git and github .
-✅ REST API.
-✅ Socket.IO
+✅ Git and github. </br>
+✅ REST API. </br>
+✅ Socket.IO. </br>
