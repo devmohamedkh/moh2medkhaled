@@ -7,8 +7,8 @@ Creative Node.js Developer with solid understanding at building and implementing
 ✅ Restful APIs. </br>
 ✅ PSD, Sketch, Figma, XD to HTML </br>
 ✅ Responsive Design. </br>
-✅ Web Scrapping
-✅ Email template & signature </br>
+✅ Web Scrapping. </br>
+✅ Email template & signature. </br>
 
 ## Back end:
 
