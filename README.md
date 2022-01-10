@@ -24,10 +24,8 @@ Creative Node.js Developer with solid understanding at building and implementing
 
 ### Database:
 
-✅ MySQL, SQL server. </br>
-✅ MongoDB. </br>
-✅ PostgreSQ. </br>
-✅ firebase . </br>
+✅ MySQL, SQL server, PostgreSQ. </br>
+✅ MongoDB, firebase, Redis. </br>
 
 ### Unit testing:
 
