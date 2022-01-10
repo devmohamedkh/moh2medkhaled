@@ -16,8 +16,8 @@ Creative Node.js Developer with solid understanding at building and implementing
 
 ### Front end:
 
-✅ javascript. </br>
-✅ React.js, Redux.js. </br>
+✅ javascript (ES6, ES7+). </br>
+✅ React / Next (Redux, Saga and Hooks). </br>
 ✅ Material UI. </br>
 ✅ bootstrap, SASS, SCSS, TailwindCSS. </br>
 ✅ HTML, CSS. </br>
